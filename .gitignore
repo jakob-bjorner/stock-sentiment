@@ -1,6 +1,11 @@
 # files to ignore
 # this is the virtualenv directory
 stock_hasan 
+.env.local
+*.local
+.env
+
+
 
 
 
